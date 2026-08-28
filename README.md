@@ -2,24 +2,42 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Kato%20Samuel%20Raymond&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Mobile+Engineer;Next.js+%C2%B7+Laravel+%C2%B7+Flutter+%C2%B7+PostgreSQL;Building+SaaS%2C+fintech+%26+education+platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=I+build+multi-tenant+SaaS%2C+production-grade;Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+Flutter;Backend+to+frontend+to+the+infra+that+ships+it" alt="Typing SVG" />
 
 <a href="https://samueltechug.dev"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:katosamuelraymondmarvinhosborn@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/katosamuelraymond"><img src="https://komarev.com/ghpvc/?username=katosamuelraymond&label=Profile%20views&color=2563EB&style=flat" /></a>
 
 </div>
 
-I build multi-tenant SaaS platforms, education systems, fintech tools, and mobile apps end to end — backend, frontend, and the infrastructure that ships them. Currently deep in tenant isolation and RBAC on a school-management platform in private beta.
+I design and ship **multi-tenant SaaS platforms** — architecture, backend, frontend, and the infra that gets it into production, fast. That's shown up across very different domains: fintech, education, agri-logistics, e-commerce — the platform thinking is the constant, not the industry.
+
+- Currently building a multi-tenant school-management platform (private, pre-launch) — tenant isolation, row-level security, RBAC, and onboarding are the hard parts I'm solving
+- Backend: NestJS and Laravel · Frontend: Next.js/React · Mobile: Flutter
+- Full project list below is what's public — some client and pre-launch work stays private
 
 <br/>
 
 ## Tech Stack
 
-**Languages & Frameworks**
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20%2F%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-**Data & Infra**
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+<td align="center" width="90"><img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white" height="40" alt="Next.js"/><br/><sub>Next.js</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/><br/><sub>NestJS</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/><sub>React</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/><br/><sub>Laravel</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/><sub>PHP</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/><br/><sub>Flutter</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/><br/><sub>Dart</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
+</tr>
+</table>
 
 <br/>
 
@@ -76,8 +94,6 @@ School ERP covering academics, finance, and student services.
 </tr>
 </table>
 
-<sub>Some recent work, including a larger multi-tenant school platform, is in private repos pre-launch — it won't show below, by design.</sub>
-
 <br/>
 
 ## GitHub Stats
@@ -85,6 +101,10 @@ School ERP covering academics, finance, and student services.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=katosamuelraymond&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katosamuelraymond&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=katosamuelraymond&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
