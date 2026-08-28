@@ -117,10 +117,6 @@ School ERP covering academics, finance, and student services.
 ## Recent Activity
 <!--START_SECTION:activity-->
 - Opened a pull request in [`Festo-Wampamba/Campus-Homes`](https://github.com/Festo-Wampamba/Campus-Homes)
-- Opened a pull request in [`Festo-Wampamba/Campus-Homes`](https://github.com/Festo-Wampamba/Campus-Homes)
-- Opened a pull request in [`Festo-Wampamba/Campus-Homes`](https://github.com/Festo-Wampamba/Campus-Homes)
-- Opened a pull request in [`Festo-Wampamba/Campus-Homes`](https://github.com/Festo-Wampamba/Campus-Homes)
-- Opened a pull request in [`Festo-Wampamba/Campus-Homes`](https://github.com/Festo-Wampamba/Campus-Homes)
 <!--END_SECTION:activity-->
 
 ## Recently Active Repositories
