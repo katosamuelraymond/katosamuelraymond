@@ -30,7 +30,7 @@ def format_activity():
     )
     lines = []
     for event in events:
-        if len(lines) >= MAX_ITEMS:
+        if len(lines) >= MAX_ITEMS * 3:
             break
         etype = event["type"]
         repo = event["repo"]["name"]
@@ -44,11 +44,23 @@ def format_activity():
         elif etype == "CreateEvent" and event["payload"].get("ref_type") == "repository":
             lines.append(f"- Created {link}")
         elif etype == "PullRequestEvent" and event["payload"].get("action") == "opened":
-            lines.append(f"- Opened a pull request in {link}")
+            title = event["payload"].get("pull_request", {}).get("title", "").strip()
+            suffix = f": “{title}”" if title else ""
+            lines.append(f"- Opened a pull request in {link}{suffix}")
         elif etype == "ReleaseEvent":
             lines.append(f"- Published a release in {link}")
         elif etype == "IssuesEvent" and event["payload"].get("action") == "opened":
-            lines.append(f"- Opened an issue in {link}")
+            title = event["payload"].get("issue", {}).get("title", "").strip()
+            suffix = f": “{title}”" if title else ""
+            lines.append(f"- Opened an issue in {link}{suffix}")
+
+    seen = set()
+    deduped = []
+    for line in lines:
+        if line not in seen:
+            seen.add(line)
+            deduped.append(line)
+    lines = deduped[:MAX_ITEMS]
 
     return "\n".join(lines) if lines else "- No recent public activity"
 
