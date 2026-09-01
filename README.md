@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Kato%20Samuel%20Raymond&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=Full-Stack%20%2B%20Mobile%20Developer%20%C2%B7%20Kampala%2C%20Uganda&descSize=17&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Kato%20Samuel%20&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=Full-Stack%20%2B%20Mobile%20Developer%20%C2%B7%20Kampala%2C%20Uganda&descSize=17&descAlignY=80" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=I+build+multi-tenant+SaaS%2C+production-grade;Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+Flutter+%C2%B7+PostgreSQL;13%2B+shipped+products+%E2%80%94+web%2C+mobile%2C+and+the+infra+behind+them" alt="Typing SVG" />
 
