@@ -153,8 +153,8 @@ Learned full-stack development by building real projects and contributing to ope
 ## Recently Active Repositories
 <!--START_SECTION:repos-->
 - [`katosamuelraymond`](https://github.com/katosamuelraymond/katosamuelraymond)
-- [`registrywebapp`](https://github.com/katosamuelraymond/registrywebapp) (PHP)
 - [`samueltechug`](https://github.com/katosamuelraymond/samueltechug) — Full-stack & mobile developer portfolio. Built with Next.js 15, TypeScript, Tailwind CSS & Framer Motion. Deployed on a self-hosted VPS with Docker, Traefik, and GitHub Actions CI/CD. Features project showcases, skills, and contact. Live at samueltechug.dev  (TypeScript)
+- [`registrywebapp`](https://github.com/katosamuelraymond/registrywebapp) (PHP)
 - [`creative-cube-next`](https://github.com/katosamuelraymond/creative-cube-next) —  A premium full-stack furniture e-commerce platform built with Next.js 15+, React 19, Prisma, and   Tailwind CSS 4. Features a sleek storefront, comprehensive admin dashboard for inventory management, secure   authentication, and a high-end responsive design optimized for modern retail. (TypeScript)
 - [`insightflow_business_ai`](https://github.com/katosamuelraymond/insightflow_business_ai) — InsightFlow AI is a multi-tenant SaaS for AI-powered business intelligence. Connect APIs, databases, and CSVs for   instant insights via natural language. Features include real-time dashboards and embeddable AI chat widgets, helping   businesses deliver intelligent, data-backed support and analytics directly on any website. (TypeScript)
 <!--END_SECTION:repos-->
