@@ -147,7 +147,7 @@ Learned full-stack development by building real projects and contributing to ope
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-- Opened a pull request in [`Festo-Wampamba/Campus-Homes`](https://github.com/Festo-Wampamba/Campus-Homes)
+- No recent public activity
 <!--END_SECTION:activity-->
 
 ## Recently Active Repositories
