@@ -152,8 +152,8 @@ Learned full-stack development by building real projects and contributing to ope
 
 ## Recently Active Repositories
 <!--START_SECTION:repos-->
-- [`katosamuelraymond`](https://github.com/katosamuelraymond/katosamuelraymond)
 - [`shid-magic`](https://github.com/katosamuelraymond/shid-magic) (TypeScript)
+- [`katosamuelraymond`](https://github.com/katosamuelraymond/katosamuelraymond)
 - [`samueltechug`](https://github.com/katosamuelraymond/samueltechug) — Full-stack & mobile developer portfolio. Built with Next.js 15, TypeScript, Tailwind CSS & Framer Motion. Deployed on a self-hosted VPS with Docker, Traefik, and GitHub Actions CI/CD. Features project showcases, skills, and contact. Live at samueltechug.dev  (TypeScript)
 - [`registrywebapp`](https://github.com/katosamuelraymond/registrywebapp) (PHP)
 - [`creative-cube-next`](https://github.com/katosamuelraymond/creative-cube-next) —  A premium full-stack furniture e-commerce platform built with Next.js 15+, React 19, Prisma, and   Tailwind CSS 4. Features a sleek storefront, comprehensive admin dashboard for inventory management, secure   authentication, and a high-end responsive design optimized for modern retail. (TypeScript)
